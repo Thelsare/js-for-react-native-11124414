@@ -1,14 +1,14 @@
 # js-for-react-native-11124414
-#STUDENT ID: 11124414
+# STUDENT ID: 11124414
 
 
 
-#Task 1: Array Manipulation
+# Task 1: Array Manipulation
 Takes an array of numbers as input.
 Returns a new array where even numbers are squared and odd numbers are tripled.
 
 
-#Task 2: String Formatting
+# Task 2: String Formatting
 Takes two arrays as input:
 Array of strings.
 Array of numbers processed by processArray (from Task 1).
@@ -18,7 +18,7 @@ Converts the string to lowercase if the number is odd.
 Throws an error if the arrays have different lengths (important for matching strings and numbers).
 
 
-#Task 3: User Profile Creation
+#  Task 3: User Profile Creation
 Takes two arrays as input:
 Array of original names.
 Array of modified names (output from formatArrayStrings in Task 2).
